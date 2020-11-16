@@ -1,2 +1,6 @@
 # Git-study
-Git 연습용 저장소
+
+CLI 명령어 내용을 정리해 봤습니다.
+
+- pwd
+- cd
