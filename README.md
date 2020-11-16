@@ -1,6 +1,5 @@
 # Git-study
 
-CLI 명령어 내용을 정리해 봤습니다.
+- [CLI 명령어] [lecture/cli.md]
+- [Git] 명령어] [lecture/cli.md]
 
-- pwd
-- cd
